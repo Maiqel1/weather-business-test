@@ -2,7 +2,7 @@ import farm from '../../assets/weatherBusinessImgs/farm.png';
 
 export default function BusinessOverviewSection() {
   return (
-    <div className="">
+    <div className="overflow-hidden">
       <div className="bg-[#FDEAD7] pb-16">
         <section className="container text-left space-y-8 ml-2 md:ml-20 lg:ml-20  ">
           <p className="pt-8 text-[#EF6820] text-2xl">Overview</p>
