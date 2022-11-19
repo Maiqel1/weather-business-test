@@ -15,7 +15,7 @@ export default function BusinessHeroSection() {
             </h3>
           </section>
           <section className="mt-10">
-            <h3 className="mr-0 md:mr-10 text-white">
+            <h3 className="mr-0 md:mr-10 text-white overflow-hidden">
               There&apos;s no luck in business. There&apos;s only drive,
               <br />
               determination, and more drive.
