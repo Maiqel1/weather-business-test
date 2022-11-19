@@ -2,7 +2,7 @@ import arrow from '../../assets/weatherBusinessImgs/ArrowUp.png';
 
 export default function BusinessWeatherIndustries() {
   return (
-    <div className="bg-[#2B2A30] pb-16">
+    <div className="bg-[#2B2A30] pb-16 overflow-hidden">
       <div className="container mx-auto space-y-6 pt-16 ml-4 md:ml-12">
         <p className="text-[#EF6820] text-xl">Industries</p>
         <p className="text-white text-3xl pb-10">
