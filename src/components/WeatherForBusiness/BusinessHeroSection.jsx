@@ -2,7 +2,7 @@ import weatheryBusinessimg from '../../assets/weatherBusinessImgs/weatheryBusine
 
 export default function BusinessHeroSection() {
   return (
-    <div className="overflow-hidden px-8">
+    <div className="overflow-hidden">
       <div className="header">
         <div className="flex justify-between pt-96 space-x-12">
           <section className="ml-2 md:ml-16 mt-10">
